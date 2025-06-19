@@ -1,0 +1,11 @@
+# /.gitignore
+__pycache__/
+.pytest_cache/
+.vscode/
+.idea/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
